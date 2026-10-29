@@ -1,0 +1,5 @@
+python-telegram-bot>=21,<23
+reportlab>=4.0
+arabic-reshaper>=3.0
+python-bidi>=0.4.2
+tzdata
